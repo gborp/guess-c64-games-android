@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Guess C64 Games</string>
+    <string name="start">Start!</string>
+    <string name="loading">Loading…</string>
+    <string name="details">Show details</string>
+    <string name="next">Next puzzle</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Guess C64 Games</string>
+    <string name="solution_ok">Correct!</string>
+    <string name="solution_wrong">Wrong…</string>
+    <string name="networkerror_title">Network error</string>
+    <string name="networkerror_message">Unable to reach lemon64.com</string>
+    <string name="networkerror_ok">OK</string>
+    <string name="instructions">Hints:\nTap the image to reveal more details.\nLong-tap to reveal the whole picture!</string>
+
+</resources>
